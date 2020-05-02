@@ -1,0 +1,14 @@
+C:\Users\Asiri\source\repos\WebPageCloner\bin\Debug\WebPageCloner.exe.config
+C:\Users\Asiri\source\repos\WebPageCloner\bin\Debug\WebPageCloner.exe
+C:\Users\Asiri\source\repos\WebPageCloner\bin\Debug\WebPageCloner.pdb
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.csprojAssemblyReference.cache
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.Form1.resources
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.Properties.Resources.resources
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.csproj.GenerateResource.cache
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.csproj.CoreCompileInputs.cache
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.exe
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.pdb
+C:\Users\Asiri\source\repos\WebPageCloner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Asiri\source\repos\WebPageCloner\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Asiri\source\repos\WebPageCloner\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Asiri\source\repos\WebPageCloner\obj\Debug\WebPageCloner.csproj.CopyComplete
